@@ -1,0 +1,15 @@
+font:
+  normal:
+    family: NotoSansMono
+    style: Regular
+
+  bold:
+    family: NotoSansMono
+    style: Bold
+
+  italic:
+    family: NotoSansMono
+    style: Italic
+
+  size: 12
+background_opacity: 0.8
